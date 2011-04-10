@@ -1,0 +1,10 @@
+name: SpawnHome
+main: au.net.fremnet.bukkit.SpawnHome.SpawnHome
+version: 0.1
+commands:
+    spawn:
+        description: Spawn related commands
+        usage: /<command> help - Displays the Spawn commands
+    home:
+        description: Home related commands
+        usage: /<command> help - Displays the home commands
